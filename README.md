@@ -1,1 +1,3 @@
-# python_stone_game
+# Stone Game
+
+## Enjoy!
