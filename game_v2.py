@@ -11,7 +11,7 @@ while stone_pile > 0:
     player_name = p1 if who_start == 1 else p2
     taken_stones = int(
         input(
-        f"{player_name}', how many stones will you take (1 to {min(max_stone, stone_pile)})"
+        f"{player_name}, how many stones will you take (1 to {min(max_stone, stone_pile)})"
         )
     )
     
